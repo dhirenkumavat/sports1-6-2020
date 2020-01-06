@@ -1,0 +1,1 @@
+[21-Dec-2018 03:04:49 America/New_York] PHP Fatal error:  Cannot redeclare Frantend::index() in /home/natrajinfotechin/public_html/application/controllers/Frantend.php on line 17
